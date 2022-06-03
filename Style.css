@@ -1,0 +1,101 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+header{
+    background-color:#129799;
+    width: 100%;
+    padding: 20px;
+    }
+    ul{
+        display:flex;
+        justify-content: space-evenly;
+        list-style: none;
+        color: white;
+    }
+    .caixa-batida{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        }
+    h1{
+        font-size: 4rem;
+        color: white;
+    }
+    li{
+        font-weight: bold;
+    }
+    main{
+        width: 100%;
+    padding: 20px;
+        background-color: #FFA185;
+      }
+      h2{
+        font-size: 2rem;
+        color: white;
+      }
+      .caixa-aquarela{
+        display: block;
+        margin: auto;
+        padding: auto;
+        
+    }
+    .retangulo1{
+        
+        height: 340.9937744140625px;
+    width: 640px;
+    left: 31px;
+    top: 966.090087890625px;
+    border-radius: 0px;
+
+    }
+    .retangulo2{
+        height: 340.9937744140625px;
+width: 640px;
+left: 700px;
+top: 966.090087890625px;
+border-radius: 0px;
+
+    }
+    .retangulo3{
+        height: 340.9937744140625px;
+width: 640px;
+left: 30px;
+top: 1363.9161376953125px;
+border-radius: 0px;
+
+    }
+    .retangulo4{
+        height: 340.9937744140625px;
+width: 640px;
+left: 699px;
+top: 1363.9161376953125px;
+border-radius: 0px;
+
+    }
+    .h3{
+        text-align: center;
+        font-size: 20px;
+        color: black;
+    }
+    footer{
+    width: 100%;
+    padding: 20px;
+    background-color:#129799;
+    }
+    .pinte{
+        height: 38.383056640625px;
+width: 39.7071533203125px;
+left: 112px;
+top: 1903px;
+border-radius: 0px;
+
+    }
+    .il ul{
+        display:flex;
+        justify-content: space-evenly;
+        list-style: none;
+        color: white;   
+    }
+    
